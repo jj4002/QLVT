@@ -30,6 +30,7 @@ namespace QLVT5
         //        f.Show();
         //    }
         //}
+
         public fmMain()
         {
             InitializeComponent();

@@ -63,7 +63,7 @@
             barBtn_DN.Id = 1;
             barBtn_DN.ImageOptions.LargeImage = (System.Drawing.Image)resources.GetObject("barBtn_DN.ImageOptions.LargeImage");
             barBtn_DN.Name = "barBtn_DN";
-            barBtn_DN.ItemClick += this.barBtn_DN_ItemClick;
+            //barBtn_DN.ItemClick += this.barBtn_DN_ItemClick;
             // 
             // barBtnTaoTK
             // 
